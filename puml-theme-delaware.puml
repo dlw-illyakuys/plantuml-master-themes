@@ -439,6 +439,7 @@ skinparam cloud {
 
 skinparam database {
 	$primary_scheme()
+	FontColor $DLW_TEXT_GRAY
 }
 !endsub
 
