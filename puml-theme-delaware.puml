@@ -274,6 +274,7 @@ skinparam participant {
 
 skinparam actor {
 	$primary_scheme()
+	FontColor $DLW_TEAL
 }
 !endsub
 
